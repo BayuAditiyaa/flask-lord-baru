@@ -1,0 +1,10 @@
+/* static/css/style.css */
+
+/* Mengatur background untuk seluruh body */
+body {
+  background-image: url("E:/latihan/my_flask_app/static/css/images/bgwin.jpg");
+  background-size: cover; /* Mengatur ukuran background agar menutupi seluruh halaman */
+  background-repeat: no-repeat; /* Mengatur agar background tidak diulang */
+  background-attachment: fixed; /* Mengatur background agar tetap pada posisinya saat di-scroll */
+  background-position: center; /* Mengatur posisi background di tengah */
+}
